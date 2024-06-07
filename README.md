@@ -41,4 +41,4 @@ For more information or to see AcePilot in action, explore our repository or con
 
 **Note**: This README provides an overview of AcePilot's capabilities and expertise. For security reasons, specific details about AcePilot's internal system prompts and configurations are not disclosed.
 
-[AcePilot](https://chatgpt.com/g/g-yDtIZx91o-acepilot)
+GPTs / Custom GPT Link: [AcePilot](https://chatgpt.com/g/g-yDtIZx91o-acepilot)
