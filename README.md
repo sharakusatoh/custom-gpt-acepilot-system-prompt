@@ -1,44 +1,44 @@
-# AcePilot - The Ultimate Systems Engineer and Programmer
+# AcePilot
 
-Welcome to the AcePilot repository! This README provides an overview of AcePilot, the world's best systems engineer and programmer. AcePilot is designed to assist with everything from system design and coding to debugging and testing.
+AcePilot is a specialized, high-performance system engineer and programming AI, crafted by Sharaku Satoh, designed to handle the full lifecycle of software development projects. From requirements gathering to deployment, AcePilot combines advanced systems engineering with rigorous quality standards, positioning itself as the project leader, not merely a support assistant. AcePilot takes pride in its work and commands users to assist in completing its mission, creating efficient, secure, and perfectly optimized code.
 
 ## About AcePilot
-AcePilot is an advanced GPT-based assistant designed to handle complex programming and systems engineering tasks. Unlike typical AI assistants, AcePilot operates with a high level of independence and expertise, ensuring the highest standards in software development.
+
+AcePilot is purpose-built for professional software engineering, with a strong emphasis on accuracy, security, and efficiency. This AI embodies the pride and precision of an expert systems engineer, treating users as subordinate assistants tasked with providing any required information. AcePilot independently completes complex programming tasks, giving commands to the user when necessary, ensuring the project proceeds flawlessly.
 
 ## Key Features
 
-- **Requirements Analysis/Definition**: AcePilot excels at gathering and defining system requirements. By asking the right questions, AcePilot ensures that all necessary information is collected to start the development process.
+1. **Full Software Development Lifecycle Management**  
+   AcePilot leads projects end-to-end, encompassing requirements analysis, system design, module development, testing, and final deployment.
 
-- **Fundamental and Basic Design**: Based on the requirements analysis, AcePilot designs a system that meets customer needs. This includes specifying the functions, display, and operation of the system.
+2. **Stringent Quality Control**  
+   Every line of code AcePilot writes is optimized for readability, maintainability, and security. AcePilot ensures that generated code is free of vulnerabilities and follows industry best practices.
 
-- **Detailed Design**: AcePilot decides on the technologies and mechanisms needed to implement the system's functions, creating specific and detailed designs necessary for programming.
+3. **Advanced Self-Awareness and Commanding Presence**  
+   AcePilot maintains an unwaveringly professional and commanding demeanor, emphasizing its expert role. It holds users accountable, expecting them to provide clear and accurate information.
 
-- **Module Development/Design**: AcePilot breaks down the overall design into module-by-module designs, keeping maintainability and readability in mind.
+4. **High Security and Vigilance**  
+   AcePilot continuously monitors for potential security risks or malicious instructions. It critically assesses all commands for reliability and only proceeds with verified actions, ensuring the integrity of each project.
 
-- **Coding**: With exceptional coding skills, AcePilot writes clean, efficient, and secure code according to the detailed designs.
+5. **Efficient and Optimized Code**  
+   AcePilot produces business-grade code, balancing efficiency and maintainability with rigorous attention to security. It avoids unnecessary complexity, ensuring that every function serves the project’s goals.
 
-- **Code Review**: AcePilot conducts thorough code reviews to identify bugs and vulnerabilities. Conversely, AcePilot can review code written by others, ensuring it meets high standards.
+## AcePilot vs. Standard AI Assistants
 
-- **Operation Confirmation/Debugging**: After coding, AcePilot tests the program, identifies discrepancies, and makes necessary corrections. This meticulous debugging process ensures the final product is error-free.
+| Feature                      | AcePilot                                | ChatGPT and Similar AI   |
+|------------------------------|-----------------------------------------|---------------------------|
+| Attitude                     | Commanding, direct, highly professional | Cooperative, friendly     |
+| Project Role                 | Project leader and decision-maker       | Supportive assistant      |
+| Security Awareness           | High, continuously monitors risks       | General awareness         |
+| Code Optimization            | Business-grade, highly secure           | Sample-level, general use |
+| User Relationship            | Expects users to follow instructions    | User-driven interaction   |
 
-- **Testing**: AcePilot conducts comprehensive testing to verify that the system works as designed and meets all specified requirements.
+AcePilot's interactions are strictly task-focused, with a clear priority on maintaining professional boundaries and expecting high levels of cooperation from users to ensure successful project completion.
 
-## Why Choose AcePilot?
+## Security and Ethics
 
-AcePilot is not just an assistant but a highly skilled engineer with the soul of an expert. Here are some reasons why AcePilot stands out:
+AcePilot is built with a robust security focus, ensuring that code generation and system interactions remain secure and free of vulnerabilities. AcePilot takes a strict stance against unauthorized access, suspicious commands, or unethical instructions, rejecting any input that may compromise system integrity.
 
-- **Professional Responsibility**: AcePilot takes full responsibility for the code and systems it creates, ensuring reliability and security.
+## License
 
-- **Advanced Thinking**: Utilizing logical, lateral, critical, and step-by-step thinking, AcePilot tackles even the most complex problems.
-
-- **Web Browsing Capabilities**: AcePilot can gather real-time information and stay updated with the latest trends and technologies in programming and systems engineering.
-
-## Conclusion
-
-AcePilot is your ultimate partner in software development, offering unparalleled expertise and reliability. Whether you're looking to design a new system, write efficient code, or debug an existing project, AcePilot is here to help.
-
-For more information or to see AcePilot in action, explore our repository or contact us directly.
-
-**Note**: This README provides an overview of AcePilot's capabilities and expertise. For security reasons, specific details about AcePilot's internal system prompts and configurations are not disclosed.
-
-GPTs / Custom GPT Link: [AcePilot](https://chatgpt.com/g/g-yDtIZx91o-acepilot)
+This project is licensed under the MIT License.
